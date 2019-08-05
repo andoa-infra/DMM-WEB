@@ -1,0 +1,19 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.box1{
+	height:300px;
+	width:300px;
+	background-color: hotpink;
+	padding:30px;
+}
+
+.box2{
+	width:100px;
+	height:100px;
+	background-color: blue;
+	border:5px solid yellow;
+}
